@@ -1,4 +1,4 @@
-# https://linkedin-shahab.netlify.app/
+# https://socialapp-s1.netlify.app/
 
 ## Description:
 This is a linkedin web clone I have created using mainly react and firebase in which users can add posts just like linkedin.
